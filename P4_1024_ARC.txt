@@ -1,0 +1,7 @@
+Cache Size = 1024
+TraceFile Name = P4.lis
+Miss Count = 19243986
+Hit Count = 532104
+Hit Ratio = 2.6906 %
+Rounded Hit Ratio =  2.69 %
+Finished in about 6 seconds. 
